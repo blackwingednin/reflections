@@ -1,0 +1,17 @@
+During this lesson
+we used diff to highlight
+the lines that were
+different between two different files.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+having access to different versions of a file can make revert back to earlier versions of 
+code a lot easier as well as trouble shooting.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros
+choosing good commit positions
+doesnt get two clutered
+cons
+you may forget to commit changes
+may do it inefficiently
